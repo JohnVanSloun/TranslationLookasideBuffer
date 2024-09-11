@@ -1,11 +1,3 @@
-/*test machine: CSEL-LINDL102-32
-* date: 03/28/24
-* name: Sharmarke Ahmed, Bradley Johnson, John Van Sloun
-* x500: ahme0344, joh22202, vansl060
-*/
-
---Extra Credit Has Been Attempted--
-
 Contributions:
 - Sharmarke Ahmed: get_tlb_entry(), populate_tlb(), LFU usage implementation, tlb initialization, fixed error in get_hit_ratio(), LFU vs FIFO comparison
 - Bradley Johnson: get_hit_ratio(), print_tlb(), fixed issues in initialize_vmanager(), print_physical_address(), populate_tlb(), and main.c
